@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678048721388",
+    "project_id": "mobilalk-usage-management",
+    "storage_bucket": "mobilalk-usage-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678048721388:android:d145943e622ae98d1578c9",
+        "android_client_info": {
+          "package_name": "com.example.tmforum_usage_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678048721388-p4umuj4rj2db5lgq3m6qkas446hh6rfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVOH4TqoEF67XxrX-t3UhUYGBcOa9sjTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678048721388-p4umuj4rj2db5lgq3m6qkas446hh6rfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
